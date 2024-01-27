@@ -1,0 +1,315 @@
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.dll.config
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.pdb
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.xml
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csc.exe
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csc.exe.config
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csc.rsp
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csi.exe
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csi.exe.config
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csi.rsp
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.AppContext.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Console.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Net.Http.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\vbc.exe
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\vbc.exe.config
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\vbc.rsp
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.AssemblyReference.cache
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.Resources.resources
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.GenerateResource.cache
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.CopyComplete
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.dll
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.xml
+C:\Users\Alex\source\repos\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.pdb
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.dll.config
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.pdb
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.xml
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csc.exe
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csc.exe.config
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csc.rsp
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csi.exe
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csi.exe.config
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csi.rsp
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.AppContext.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Console.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.Compression.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Net.Http.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.ValueTuple.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\vbc.exe
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\vbc.exe.config
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\vbc.rsp
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\VBCSCompiler.exe
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.Resources.resources
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.CopyComplete
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.dll
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.xml
+C:\Users\Usuario\Desktop\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.pdb
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.dll.config
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.pdb
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.xml
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csc.exe
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csc.exe.config
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csc.rsp
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csi.exe
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csi.exe.config
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csi.rsp
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.AppContext.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Console.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Net.Http.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\vbc.exe
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\vbc.exe.config
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\vbc.rsp
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.AssemblyReference.cache
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.Resources.resources
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.GenerateResource.cache
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.CoreCompileInputs.cache
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.CopyComplete
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.xml
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.pdb
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.dll.config
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.pdb
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.xml
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csc.exe
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csc.exe.config
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csc.rsp
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csi.exe
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csi.exe.config
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csi.rsp
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.AppContext.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Console.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.Compression.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Net.Http.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.ValueTuple.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\vbc.exe
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\vbc.exe.config
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\vbc.rsp
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\VBCSCompiler.exe
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.AssemblyReference.cache
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.Resources.resources
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.GenerateResource.cache
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.CoreCompileInputs.cache
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.CopyComplete
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.dll
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.xml
+C:\Users\Insid\OneDrive\Documents\Alexis\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.pdb
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.dll.config
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.pdb
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\TPFinalLabo4_BoscaroliAlexis.xml
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csc.exe
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csc.exe.config
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csc.rsp
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csi.exe
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csi.exe.config
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\csi.rsp
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.AppContext.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Console.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.Compression.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Net.Http.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.ValueTuple.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\vbc.exe
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\vbc.exe.config
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\vbc.rsp
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.AssemblyReference.cache
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.Resources.resources
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.GenerateResource.cache
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.CoreCompileInputs.cache
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.vbproj.CopyComplete
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.dll
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.xml
+C:\Users\Alexis\Documents\GitHub\finalLabo4\Labo 4\TPFinalLabo4_BoscaroliAlexis (2)\TPFinalLabo4_BoscaroliAlexis\obj\Debug\TPFinalLabo4_BoscaroliAlexis.pdb

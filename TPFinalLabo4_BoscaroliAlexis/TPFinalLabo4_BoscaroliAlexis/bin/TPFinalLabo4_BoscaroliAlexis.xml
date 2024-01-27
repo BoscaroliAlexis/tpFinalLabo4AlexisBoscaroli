@@ -1,0 +1,212 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+TPFinalLabo4_BoscaroliAlexis
+</name>
+</assembly>
+<members>
+<member name="T:TPFinalLabo4_BoscaroliAlexis.My.MyWebExtension">
+ <summary>
+ Módulo usado para definir las propiedades que están disponibles en el espacio de nombres My para proyectos web.
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="P:TPFinalLabo4_BoscaroliAlexis.My.MyWebExtension.Computer">
+ <summary>
+ Devuelve información sobre el equipo host.
+ </summary>
+</member>
+<member name="P:TPFinalLabo4_BoscaroliAlexis.My.MyWebExtension.User">
+ <summary>
+ Devuelve información del usuario web actual.
+ </summary>
+</member>
+<member name="P:TPFinalLabo4_BoscaroliAlexis.My.MyWebExtension.Request">
+ <summary>
+ Devuelve un objeto Request.
+ </summary>
+</member>
+<member name="P:TPFinalLabo4_BoscaroliAlexis.My.MyWebExtension.Response">
+ <summary>
+ Devuelve un objeto Response.
+ </summary>
+</member>
+<member name="P:TPFinalLabo4_BoscaroliAlexis.My.MyWebExtension.Log">
+ <summary>
+ Devuelve el objeto de registro Asp.
+ </summary>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.frmAdicionales._lblApeyNomSocio">
+<summary>
+Control lblApeyNomSocio.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.frmAdicionales._txtNroSocio">
+<summary>
+Control txtNroSocio.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.frmAdicionales._btBuscar">
+<summary>
+Control btBuscar.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.frmAdicionales._btActualizar">
+<summary>
+Control btActualizar.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.frmAdicionales._gvAdicionalesSocios">
+<summary>
+Control gvAdicionalesSocios.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.frmConsulta._lblMensaje">
+<summary>
+Control lblMensaje.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.frmConsulta._txtApellido">
+<summary>
+Control txtApellido.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.frmConsulta._btBuscar">
+<summary>
+Control btBuscar.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.frmConsulta._gvSocios">
+<summary>
+Control gvSocios.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.frmDetalles._lblApeyNomSocio">
+<summary>
+Control lblApeyNomSocio.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.frmDetalles._pnlDatosSocio">
+<summary>
+Control pnlDatosSocio.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.frmDetalles._gvDatosSocio">
+<summary>
+Control gvDatosSocio.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.frmDetalles._pnlGrupoFamiliar">
+<summary>
+Control pnlGrupoFamiliar.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.frmDetalles._gvGrupoFamiliar">
+<summary>
+Control gvGrupoFamiliar.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.frmDetalles._pnlAdicionales">
+<summary>
+Control pnlAdicionales.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.frmDetalles._gvAdicionales">
+<summary>
+Control gvAdicionales.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.master._head">
+<summary>
+Control head.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.master._form1">
+<summary>
+Control form1.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+<member name="F:TPFinalLabo4_BoscaroliAlexis.master._MainContent">
+<summary>
+Control MainContent.
+</summary>
+<remarks>
+Campo generado automáticamente.
+Para modificarlo, mueva la declaración del campo del archivo del diseñador al archivo de código subyacente.
+</remarks>
+</member>
+</members>
+</doc>
